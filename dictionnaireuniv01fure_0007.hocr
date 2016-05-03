@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dictionnaireuniv01fure_0007.png"; bbox 0 0 2508 3814; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 31 919 2337 1347">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 31 831 2337 1347">
+     <span class='ocr_line' id='line_1_1' title="bbox 31 919 2337 1181; baseline -0.007 -70"><span class='ocrx_word' id='word_1_1' title='bbox 31 919 2337 1181; x_wconf 72' lang='lat' dir='ltr'>DICTIONNAIRE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 631 1241 1714 1347; baseline 0.003 -0.909"><span class='ocrx_word' id='word_1_2' title='bbox 631 1241 1714 1347; x_wconf 77' lang='lat' dir='ltr'><strong>UNIVERS&#39;EL</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 21 1505 2207 1691">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 21 1468 2207 1691">
+     <span class='ocr_line' id='line_1_3' title="bbox 21 1505 2207 1691; baseline 0.017 -81"><span class='ocrx_word' id='word_1_3' title='bbox 21 1607 24 1610; x_wconf 76' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 164 1511 1155 1691; x_wconf 61' lang='lat' dir='ltr'>FRANcols</span> <span class='ocrx_word' id='word_1_5' title='bbox 1207 1508 1468 1645; x_wconf 79' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_6' title='bbox 1522 1505 2207 1673; x_wconf 64' lang='lat' dir='ltr'>LATIN,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 882 1800 1831 1856">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 882 1800 1831 1856">
+     <span class='ocr_line' id='line_1_4' title="bbox 882 1800 1831 1856; baseline -0.005 -1"><span class='ocrx_word' id='word_1_7' title='bbox 882 1800 1371 1856; x_wconf 87' lang='lat' dir='ltr'><em>IREMENT</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1448 1800 1831 1850; x_wconf 84' lang='lat' dir='ltr'><em>APPELE</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 27 1988 2334 2138">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 27 1949 2362 2138">
+     <span class='ocr_line' id='line_1_5' title="bbox 27 1988 2334 2138; baseline 0 -20"><span class='ocrx_word' id='word_1_9' title='bbox 27 2008 1222 2124; x_wconf 82' lang='lat' dir='ltr'>DICTIONNAIRE</span> <span class='ocrx_word' id='word_1_10' title='bbox 1263 2012 1484 2138; x_wconf 83' lang='lat' dir='ltr'>DE.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1532 1988 2334 2123; x_wconf 77' lang='lat' dir='ltr'><strong>TREVOUX.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 648 2276 1684 2363">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 648 2276 1684 2363">
+     <span class='ocr_line' id='line_1_6' title="bbox 648 2276 1684 2363; baseline 0.012 -11"><span class='ocrx_word' id='word_1_12' title='bbox 648 2276 1045 2355; x_wconf 73' lang='lat' dir='ltr'><strong>&#39;TOME</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1134 2291 1684 2363; x_wconf 82' lang='lat' dir='ltr'><strong>PREMIER·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 894 2499 1479 2613">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 894 2499 1479 2613">
+     <span class='ocr_line' id='line_1_7' title="bbox 894 2499 1479 2613; baseline 0.009 -5"><span class='ocrx_word' id='word_1_14' title='bbox 894 2499 1479 2613; x_wconf 61' lang='lat' dir='ltr'>A-s-BOU</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
